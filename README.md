@@ -1,5 +1,11 @@
 # 你来啦！ 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,pr,au,ai,lua,blender,discord,github,md,vscode" />
+  </a>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=b4e419&random=false&width=435&lines=这里是晦涩弗里曼！;看看我制作的项目吧！)](https://git.io/typing-svg)
 
 这里是我的Github存储库，不妨来看看我做的小玩意。

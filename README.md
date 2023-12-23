@@ -8,12 +8,19 @@
 
 ## Gmod
 
+[<kbd> <br> 晦涩弗里曼的工具箱 <br> </kbd>][Link1]
+[<kbd> <br> 死亡消息 <br> </kbd>][Link2]
+
+<!--
 [晦涩弗里曼的工具箱](https://github.com/obscurefreeman/oftoolkit_v2)
 [死亡消息](https://github.com/obscurefreeman/death_message)
+[黑檀主题](https://github.com/obscurefreeman/typora_theme_ebony)
+-->
 
 ## Typora
 
-[黑檀主题](https://github.com/obscurefreeman/typora_theme_ebony)
+[<kbd> <br> 黑檀主题 <br> </kbd>][Link3]
+
 
 # 我的网站
 
@@ -25,7 +32,9 @@
 | [我的花园](https://obscuregarden.netlify.app/)  | ⚠️正在构建 |
 | [我的导航](https://obscurenav.netlify.app/)     | ⚠️正在构建 |
 
-
+[Link1]: https://github.com/obscurefreeman/oftoolkit_v2
+[Link2]: https://github.com/obscurefreeman/death_message
+[Link3]: https://github.com/obscurefreeman/typora_theme_ebony
 
 <!--
 **obscurefreeman/obscurefreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

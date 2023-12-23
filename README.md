@@ -1,5 +1,9 @@
 ### 你来啦！ 👋
 
+这里是我的Github存储库，不妨来看看我做的小玩意。
+
+或者你也可以访问我的网站：
+
 [我的博客](https://obscurefreeman.netlify.app/)
 [我的维基](https://sourcewiki.netlify.app/)
 [我的图库](https://obscureimage.netlify.app/)

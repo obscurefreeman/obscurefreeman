@@ -29,6 +29,7 @@
 
 [<kbd> <br> 黑檀主题 <br> </kbd>][Link3]
 
+![Image.gif](https://obscureimage.netlify.app/gif/demodance.gif)
 
 # 我的网站
 
@@ -45,7 +46,7 @@
 [Link3]: https://github.com/obscurefreeman/typora_theme_ebony
 
 # 请我喝杯咖啡
-[![Image.png](https://cdn.pixabay.com/animation/2023/01/28/23/08/23-08-38-499_512.gif)](https://afdian.net/a/obscurefreeman)
+[![Image.gif](https://cdn.pixabay.com/animation/2023/01/28/23/08/23-08-38-499_512.gif)](https://afdian.net/a/obscurefreeman)
 
 <!--
 **obscurefreeman/obscurefreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

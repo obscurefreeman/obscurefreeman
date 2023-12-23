@@ -1,8 +1,17 @@
-### 你来啦！ 👋
+# 你来啦！ 👋
 
 这里是我的Github存储库，不妨来看看我做的小玩意。
 
-或者你也可以访问我的网站：
+## Gmod
+
+[晦涩弗里曼的工具箱](https://github.com/obscurefreeman/oftoolkit_v2)
+[死亡消息](https://github.com/obscurefreeman/death_message)
+
+## Typora
+
+[黑檀主题](https://github.com/obscurefreeman/typora_theme_ebony)
+
+# 我的网站
 
 [我的博客](https://obscurefreeman.netlify.app/)
 [我的维基](https://sourcewiki.netlify.app/)

@@ -8,7 +8,7 @@
 
 ![Progress](https://progress-bar.dev/91/?title=年计划)
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)
-![Steam](https://img.shields.io/steam/subscriptions/:fileId)
+![Steam](https://img.shields.io/steam/subscriptions/:3070803347)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=b4e419&random=false&width=435&lines=这里是晦涩弗里曼！;看看我制作的项目吧！)](https://git.io/typing-svg)
 

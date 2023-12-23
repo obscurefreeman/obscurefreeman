@@ -2,7 +2,9 @@
 
 这里是我的Github存储库，不妨来看看我做的小玩意。
 
-<img src="https://obscureimage.netlify.app/header/railroad.png"/>
+[![Image.png](https://obscureimage.netlify.app/button/button_bilibili.png)](https://space.bilibili.com/523837807)
+[![Image.png](https://obscureimage.netlify.app/button/button_workshop.png)](https://steamcommunity.com/id/obscurefreeman/myworkshopfiles/)
+
 
 ## Gmod
 

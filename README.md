@@ -44,7 +44,8 @@
 [Link2]: https://github.com/obscurefreeman/death_message
 [Link3]: https://github.com/obscurefreeman/typora_theme_ebony
 
-[![Image.png](https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif)](https://steamcommunity.com/id/obscurefreeman/myworkshopfiles/)
+# 请我喝杯咖啡
+[![Image.png](https://cdn.pixabay.com/animation/2023/01/28/23/08/23-08-38-499_512.gif)](https://afdian.net/a/obscurefreeman)
 
 <!--
 **obscurefreeman/obscurefreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

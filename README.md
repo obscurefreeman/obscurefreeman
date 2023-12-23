@@ -23,15 +23,17 @@
 [晦涩弗里曼的工具箱](https://github.com/obscurefreeman/oftoolkit_v2)
 [死亡消息](https://github.com/obscurefreeman/death_message)
 [黑檀主题](https://github.com/obscurefreeman/typora_theme_ebony)
+![Image.gif](https://obscureimage.netlify.app/gif/valveloading.gif)
 -->
 
 ## Typora
 
 [<kbd> <br> 黑檀主题 <br> </kbd>][Link3]
 
-![Image.gif](https://obscureimage.netlify.app/gif/demodance.gif)
 
 # 我的网站
+
+<img align="right" src="https://obscureimage.netlify.app/gif/gmodchairswiveling.gif" />
 
 | 名称                                            | 状态      |
 | ----------------------------------------------- | --------- |

@@ -9,17 +9,6 @@
 ![Progress](https://progress-bar.dev/91/?title=年计划)
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)
 
-![Steam Subscriptions](https://img.shields.io/steam/subscriptions/3070803347?style=for-the-badge&label=订阅&color=b4e419)
-![Steam Downloads](https://img.shields.io/steam/downloads/3070803347?style=for-the-badge&label=下载&color=00adb5)
-![Steam Views](https://img.shields.io/steam/views/3070803347?style=for-the-badge&label=浏览量&color=ff5719)
-
-![Steam Subscriptions](https://img.shields.io/steam/size/3070803347?style=for-the-badge&label=模组大小&color=2ea043)
-![Steam Downloads](https://img.shields.io/steam/release-date/3070803347?style=for-the-badge&label=发布日期&color=ffb300)
-![Steam Views](https://img.shields.io/steam/update-date/3070803347?style=for-the-badge&label=更新日期&color=9999ff)
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=b4e419&random=false&width=435&lines=这里是晦涩弗里曼！;看看我制作的项目吧！)](https://git.io/typing-svg)
 
 [![Image.png](https://obscureimage.netlify.app/button/button_bilibili.png)](https://space.bilibili.com/523837807)

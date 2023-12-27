@@ -55,12 +55,13 @@
 
 # 请我喝杯咖啡
 [![Image.gif](https://cdn.pixabay.com/animation/2023/01/28/23/08/23-08-38-499_512.gif)](https://afdian.net/a/obscurefreeman)
-
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://stats.justsong.cn/api/bilibili/?id=523837807&lang=zh-CN&theme=merko" />
   </a>
 </p>
+-->
 <!--
 **obscurefreeman/obscurefreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -34,6 +34,7 @@
 
 [<kbd> <br> 黑檀主题 <br> </kbd>][Link3]
 
+![Image.png](https://raw.githubusercontent.com/obscurefreeman/obscurefreeman/main/liyang.svg)
 
 # 我的网站
 

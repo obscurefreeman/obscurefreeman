@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://steamcommunity.com/id/obscurefreeman/">
     <img src="https://obscurefreeman-steamprofiles.vercel.app/api?profileName=obscurefreeman" />
   </a>
 </p>

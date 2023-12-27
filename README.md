@@ -6,8 +6,8 @@
   </a>
 </p>
 
-![Progress](https://progress-bar.dev/91/?title=年计划)
-![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)
+![B站](https://stats.justsong.cn/api/bilibili/?id=523837807&lang=zh-CN&theme=merko)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=b4e419&random=false&width=435&lines=这里是晦涩弗里曼！;看看我制作的项目吧！)](https://git.io/typing-svg)
 

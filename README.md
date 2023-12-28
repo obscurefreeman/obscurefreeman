@@ -12,6 +12,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=b4e419&random=false&width=435&lines=这里是晦涩弗里曼！;看看我制作的项目吧！)](https://git.io/typing-svg)
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 [![Image.png](https://obscureimage.netlify.app/button/button_bilibili.png)](https://space.bilibili.com/523837807)
 [![Image.png](https://obscureimage.netlify.app/button/button_workshop.png)](https://steamcommunity.com/id/obscurefreeman/myworkshopfiles/)
 

@@ -1,5 +1,12 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
 
+:root {
+    --size-default: 22px;
+    --size-sm: 16px;
+    --color-green: #58DD93;
+    --color-black: #000;
+    --colorhtml: #222724;
+}
 body {
     /* background-color: #222; */
     background: 

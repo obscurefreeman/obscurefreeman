@@ -1,26 +1,17 @@
-<header class="p-3 mb-3 border-bottom bg-body-tertiary">
-    <div class="container">
-        <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-            <a href="{{ site.url }}"
-               class="d-flex align-items-center me-3 mb-2 mb-lg-0 link-body-emphasis text-decoration-none">
-                <img src="{{ site.logo_url }}" class="rounded" alt="{{ site.description }}" width="32" height="32">
-            </a>
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <nav class="navbar">
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+</body>
+</html>
 
-            <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-                <li>
-                    <a href="{{ site.url }}" class="nav-link px-2 link-secondary">
-                        {{ site.navbar_link_text }}
-                    </a>
-                </li>
-            </ul>
-
-            <div class="col-lg-auto text-end">
-                {% if site.github %}
-                    <a class="btn btn-outline-primary" role="button" href="{{ site.github.repository_url }}">
-                        {{ site.navbar_button_text }}
-                    </a>
-                {% endif %}
-            </div>
-        </div>
-    </div>
-</header>

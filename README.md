@@ -42,8 +42,6 @@
 
 [<kbd> <br> 黑檀主题 <br> </kbd>][Link3]
 
-![Image.png](https://raw.githubusercontent.com/obscurefreeman/obscurefreeman/main/liyang.svg)
-
 # 我的网站
 
 我喜欢好看的网页，因此时常Fork大佬的源码。这就是我的存储库这么乱的原因。

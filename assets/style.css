@@ -217,3 +217,41 @@ table tbody tr td img {
   background-color: #0069fc;
   border-radius: 5px;
 }
+
+.navbar-default .navbar-brand {
+  font-family: Verdana;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+}
+
+.navbar-default .navbar-toggle:hover {
+  background-color: transparent;
+}
+
+.navbar-default .navbar-toggle:focus {
+  background-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}

@@ -42,26 +42,39 @@
 
 [<kbd> <br> 黑檀主题 <br> </kbd>][Link3]
 
+
+
+# 你能在这里找到我
+
+| 平台                                                         | 链接                                                     |      |
+| ------------------------------------------------------------ | -------------------------------------------------------- | ---- |
+| [B站](https://space.bilibili.com/523837807)                  | https://space.bilibili.com/523837807                     |      |
+| [Discord](https://discord.gg/zbX7nQa8xF)                     | https://discord.gg/zbX7nQa8xF                            |      |
+| [Steam](https://steamcommunity.com/id/obscurefreeman/)       | https://steamcommunity.com/id/obscurefreeman/            |      |
+| [YouTube](https://www.youtube.com/channel/UCw_S5zgJ6ikGSXtFeAvVK8Q) | https://www.youtube.com/channel/UCw_S5zgJ6ikGSXtFeAvVK8Q |      |
+| [Twitter](https://twitter.com/y0juTLeYHfs03dZ)               | https://twitter.com/y0juTLeYHfs03dZ                      |      |
+| [Twitch](https://www.twitch.tv/theobscurefreeman)            | https://www.twitch.tv/theobscurefreeman                  |      |
+| [Github](https://github.com/obscurefreeman)                  | https://github.com/obscurefreeman                        |      |
+| [Reddit](https://www.reddit.com/user/Wonderful-Snow-6080)    | https://www.reddit.com/user/Wonderful-Snow-6080          |      |
+
 # 我的网站
 
 我喜欢好看的网页，因此时常Fork大佬的源码。这就是我的存储库这么乱的原因。
 
-| 名称                                            | 状态      |
-| ----------------------------------------------- | --------- |
-| [我的博客](https://obscurefreeman.netlify.app/) | ✅已部署   |
-| [我的维基](https://sourcewiki.netlify.app/)     | ✅已部署   |
-| [我的图库](https://obscureimage.netlify.app/)   | ✅已部署   |
-| [我的花园](https://obscuregarden.netlify.app/)  | ⚠️正在构建 |
-| [我的导航](https://obscurenav.netlify.app/)     | ⚠️正在构建 |
+| 名称                                            | 状态      | 链接                                |
+| ----------------------------------------------- | --------- | ----------------------------------- |
+| [我的博客](https://obscurefreeman.netlify.app/) | ✅已部署   | https://obscurefreeman.netlify.app/ |
+| [我的维基](https://sourcewiki.netlify.app/)     | ✅已部署   | https://sourcewiki.netlify.app/     |
+| [我的图库](https://obscureimage.netlify.app/)   | ✅已部署   | https://obscureimage.netlify.app/   |
+| [我的花园](https://obscuregarden.netlify.app/)  | ⚠️正在构建 | https://obscuregarden.netlify.app/  |
+| [我的导航](https://obscurenav.netlify.app/)     | ⚠️正在构建 | https://obscurenav.netlify.app/     |
 
 ![Image.gif](https://obscureimage.netlify.app/gif/valveloading.gif)
-
-[Link1]: https://github.com/obscurefreeman/oftoolkit_v2
-[Link2]: https://github.com/obscurefreeman/death_message
-[Link3]: https://github.com/obscurefreeman/typora_theme_ebony
 
 # 请我喝杯咖啡
 [![Image.gif](https://cdn.pixabay.com/animation/2023/01/28/23/08/23-08-38-499_512.gif)](https://afdian.net/a/obscurefreeman)
 
-
+[Link1]: https://github.com/obscurefreeman/oftoolkit_v2
+[Link2]: https://github.com/obscurefreeman/death_message
+[Link3]: https://github.com/obscurefreeman/typora_theme_ebony
 

@@ -28,34 +28,39 @@
 
 ## Gmod
 
-[<kbd> <br> 晦涩弗里曼的工具箱 <br> </kbd>][Link1]
-[<kbd> <br> 死亡消息 <br> </kbd>][Link2]
+- [晦涩弗里曼的工具箱](https://github.com/obscurefreeman/oftoolkit_v2)
 
-<!--
-[晦涩弗里曼的工具箱](https://github.com/obscurefreeman/oftoolkit_v2)
-[死亡消息](https://github.com/obscurefreeman/death_message)
-[黑檀主题](https://github.com/obscurefreeman/typora_theme_ebony)
-![Image.gif](https://obscureimage.netlify.app/gif/valveloading.gif)
--->
+- [死亡消息](https://github.com/obscurefreeman/death_message)
 
 ## Typora
 
-[<kbd> <br> 黑檀主题 <br> </kbd>][Link3]
-
-
+- [黑檀主题](https://github.com/obscurefreeman/typora_theme_ebony)
 
 # 你能在这里找到我
+<p align="center">
+    <div align="center">
+        <img alt="Bilibili" src="https://bilistats.lonelyion.com/followers?uid=523837807&style=for-the-badge">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white&style=for-the-badge">
+        <img alt="Steam" src="https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white&style=for-the-badge">
+        <img alt="Youtube" src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
+        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge">
+        <img alt="Twitch" src="https://img.shields.io/badge/Twitch-blueviolet?logo=Twitch&logoColor=white&style=for-the-badge">
+        <img alt="Github" src="https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge">
+        <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white&style=for-the-badge">
+    </div>
+</p>
 
-| 标志                                                         | 平台                                                         | 链接                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
-| ![](https://bilistats.lonelyion.com/followers?uid=523837807&style=for-the-badge) | [B站](https://space.bilibili.com/523837807)                  | https://space.bilibili.com/523837807                     |
-| ![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white&style=for-the-badge) | [Discord](https://discord.gg/zbX7nQa8xF)                     | https://discord.gg/zbX7nQa8xF                            |
-| ![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white&style=for-the-badge) | [Steam](https://steamcommunity.com/id/obscurefreeman/)       | https://steamcommunity.com/id/obscurefreeman/            |
-| ![Youtube](https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge) | [YouTube](https://www.youtube.com/channel/UCw_S5zgJ6ikGSXtFeAvVK8Q) | https://www.youtube.com/channel/UCw_S5zgJ6ikGSXtFeAvVK8Q |
-| ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge) | [Twitter](https://twitter.com/y0juTLeYHfs03dZ)               | https://twitter.com/y0juTLeYHfs03dZ                      |
-| ![Twitch](https://img.shields.io/badge/Twitch-blueviolet?logo=Twitch&logoColor=white&style=for-the-badge) | [Twitch](https://www.twitch.tv/theobscurefreeman)            | https://www.twitch.tv/theobscurefreeman                  |
-| ![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge) | [Github](https://github.com/obscurefreeman)                  | https://github.com/obscurefreeman                        |
-| ![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white&style=for-the-badge) | [Reddit](https://www.reddit.com/user/Wonderful-Snow-6080)    | https://www.reddit.com/user/Wonderful-Snow-6080          |
+
+| 平台                                                         | 链接                                                     |
+| ------------------------------------------------------------ | -------------------------------------------------------- |
+| [B站](https://space.bilibili.com/523837807)                  | https://space.bilibili.com/523837807                     |
+| [Discord](https://discord.gg/zbX7nQa8xF)                     | https://discord.gg/zbX7nQa8xF                            |
+| [Steam](https://steamcommunity.com/id/obscurefreeman/)       | https://steamcommunity.com/id/obscurefreeman/            |
+| [YouTube](https://www.youtube.com/channel/UCw_S5zgJ6ikGSXtFeAvVK8Q) | https://www.youtube.com/channel/UCw_S5zgJ6ikGSXtFeAvVK8Q |
+| [Twitter](https://twitter.com/y0juTLeYHfs03dZ)               | https://twitter.com/y0juTLeYHfs03dZ                      |
+| [Twitch](https://www.twitch.tv/theobscurefreeman)            | https://www.twitch.tv/theobscurefreeman                  |
+| [Github](https://github.com/obscurefreeman)                  | https://github.com/obscurefreeman                        |
+| [Reddit](https://www.reddit.com/user/Wonderful-Snow-6080)    | https://www.reddit.com/user/Wonderful-Snow-6080          |
 
 # 我的网站
 

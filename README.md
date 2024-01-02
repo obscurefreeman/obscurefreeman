@@ -59,6 +59,30 @@
 | [Github](https://github.com/obscurefreeman)                  | https://github.com/obscurefreeman                        |
 | [Reddit](https://www.reddit.com/user/Wonderful-Snow-6080)    | https://www.reddit.com/user/Wonderful-Snow-6080          |
 
+## 备注：徽章源码
+
+```html
+<a href="https://space.bilibili.com/523837807"><img src="https://bilistats.lonelyion.com/followers?uid=523837807&style=for-the-badge" alt="Bilibili"></a>
+<a href="https://discord.gg/zbX7nQa8xF"><img src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
+<a href="https://steamcommunity.com/id/obscurefreeman/"><img src="https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white&style=for-the-badge" alt="Steam"></a>
+<a href="https://www.youtube.com/channel/UCw_S5zgJ6ikGSXtFeAvVK8Q"><img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="Youtube"></a>
+<a href="https://twitter.com/y0juTLeYHfs03dZ"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"></a>
+<a href="https://www.twitch.tv/theobscurefreeman"><img src="https://img.shields.io/badge/Twitch-blueviolet?logo=Twitch&logoColor=white&style=for-the-badge" alt="Twitch"></a>
+<a href="https://github.com/obscurefreeman"><img src="https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge" alt="Github"></a>
+<a href="https://www.reddit.com/user/Wonderful-Snow-6080"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit"></a>
+```
+
+```markdown
+[![Bilibili](https://bilistats.lonelyion.com/followers?uid=523837807&style=for-the-badge)](https://space.bilibili.com/523837807)
+[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/zbX7nQa8xF)
+[![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white&style=for-the-badge)](https://steamcommunity.com/id/obscurefreeman/)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCw_S5zgJ6ikGSXtFeAvVK8Q)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/y0juTLeYHfs03dZ)
+[![Twitch](https://img.shields.io/badge/Twitch-blueviolet?logo=Twitch&logoColor=white&style=for-the-badge)](https://www.twitch.tv/theobscurefreeman)
+[![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/obscurefreeman)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/Wonderful-Snow-6080)
+```
+
 # 我的网站
 
 我喜欢好看的网页，因此时常Fork大佬的源码。这就是我的存储库这么乱的原因。

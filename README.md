@@ -37,18 +37,15 @@
 - [黑檀主题](https://github.com/obscurefreeman/typora_theme_ebony)
 
 # 你能在这里找到我
-<p align="center">
-    <div align="center">
-        <img alt="Bilibili" src="https://bilistats.lonelyion.com/followers?uid=523837807&style=for-the-badge">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white&style=for-the-badge">
-        <img alt="Steam" src="https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white&style=for-the-badge">
-        <img alt="Youtube" src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
-        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge">
-        <img alt="Twitch" src="https://img.shields.io/badge/Twitch-blueviolet?logo=Twitch&logoColor=white&style=for-the-badge">
-        <img alt="Github" src="https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge">
-        <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white&style=for-the-badge">
-    </div>
-</p>
+
+<a href="https://space.bilibili.com/523837807"><img src="https://bilistats.lonelyion.com/followers?uid=523837807&style=for-the-badge" alt="Bilibili"></a>
+<a href="https://discord.gg/zbX7nQa8xF"><img src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
+<a href="https://steamcommunity.com/id/obscurefreeman/"><img src="https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white&style=for-the-badge" alt="Steam"></a>
+<a href="https://www.youtube.com/channel/UCw_S5zgJ6ikGSXtFeAvVK8Q"><img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="Youtube"></a>
+<a href="https://twitter.com/y0juTLeYHfs03dZ"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"></a>
+<a href="https://www.twitch.tv/theobscurefreeman"><img src="https://img.shields.io/badge/Twitch-blueviolet?logo=Twitch&logoColor=white&style=for-the-badge" alt="Twitch"></a>
+<a href="https://github.com/obscurefreeman"><img src="https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge" alt="Github"></a>
+<a href="https://www.reddit.com/user/Wonderful-Snow-6080"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit"></a>
 
 
 | 平台                                                         | 链接                                                     |

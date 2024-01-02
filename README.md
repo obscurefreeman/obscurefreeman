@@ -61,6 +61,8 @@
 | [Github](https://github.com/obscurefreeman)                  | https://github.com/obscurefreeman                        |
 | [Reddit](https://www.reddit.com/user/Wonderful-Snow-6080)    | https://www.reddit.com/user/Wonderful-Snow-6080          |
 
+<!--
+
 ## 备注：徽章源码
 
 ```html
@@ -88,6 +90,8 @@
 [![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/obscurefreeman)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/Wonderful-Snow-6080)
 ```
+
+-->
 
 # 我的网站
 

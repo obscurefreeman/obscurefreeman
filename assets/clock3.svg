@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100">
+    <title>时间</title>
+    <style>
+        
+    </style>
+    <text x="10" y="30" font-size="20" style="font-family='monospace', sans-serif; fill: #58dd93;">
+        <tspan x="10" dy="0">当前时间</tspan>
+        <tspan dx="5" dy="0" id="time"></tspan>
+    </text>
+    <!-- <text x="10" y="60" font-size="16" id="hitokoto_text">载入中</text> -->
+    <script>
+        function updateTime() {
+        var now = new Date();
+        var hours = now.getHours().toString().padStart(2, '0');
+        var minutes = now.getMinutes().toString().padStart(2, '0');
+        var seconds = now.getSeconds().toString().padStart(2, '0');
+        document.getElementById("time").textContent = hours + ":" + minutes + ":" + seconds;
+        }
+        setInterval(updateTime, 1000);
+    </script>
+</svg>

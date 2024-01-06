@@ -1,7 +1,5 @@
 # 你来啦！ 👋
 
-<img src="https://obscurefreeman.github.io/obscurefreeman/assets/clock.svg" /> 
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=ps,pr,ae,ai,md,github,vscode,lua,discord" /> 
 </p>

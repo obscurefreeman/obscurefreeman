@@ -13,12 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=b4e419&random=false&width=435&lines=这里是晦涩弗里曼！;看看我制作的项目吧！)](https://git.io/typing-svg)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![[ Insurgency 2 ] Sinjar Bringdown Sound Pack Showcase](https://ytcards.demolab.com/?id=6_QzHEp3oVQ&title=%5B+Insurgency+2+%5D+Sinjar+Bringdown+Sound+Pack+Showcase&lang=en&timestamp=1710939360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[ Insurgency 2 ] Sinjar Bringdown Sound Pack Showcase")](https://www.youtube.com/watch?v=6_QzHEp3oVQ)
-[![OF Gamebox Offical Tutorial: Adding Your Custom Games!](https://ytcards.demolab.com/?id=h3BhXFJ5nAk&title=OF+Gamebox+Offical+Tutorial%3A+Adding+Your+Custom+Games%21&lang=en&timestamp=1707233875&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OF Gamebox Offical Tutorial: Adding Your Custom Games!")](https://www.youtube.com/watch?v=h3BhXFJ5nAk)
-[![From a mod of Half-Life to a globally popular FPS. The story of INSURGENCY](https://ytcards.demolab.com/?id=ydNkM3BfnW0&title=From+a+mod+of+Half-Life+to+a+globally+popular+FPS.+The+story+of+INSURGENCY&lang=en&timestamp=1703854062&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "From a mod of Half-Life to a globally popular FPS. The story of INSURGENCY")](https://www.youtube.com/watch?v=ydNkM3BfnW0)
-[![Is this artist a big fan of Rusty Lake?](https://ytcards.demolab.com/?id=LlYB6V-D3nE&title=Is+this+artist+a+big+fan+of+Rusty+Lake%3F&lang=en&timestamp=1703853622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Is this artist a big fan of Rusty Lake?")](https://www.youtube.com/watch?v=LlYB6V-D3nE)
-[![I embedded a mini-game in my blog successfully.](https://ytcards.demolab.com/?id=7Q6XPCKPNJM&title=I+embedded+a+mini-game+in+my+blog+successfully.&lang=en&timestamp=1703853427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I embedded a mini-game in my blog successfully.")](https://www.youtube.com/watch?v=7Q6XPCKPNJM)
-[![Spinning Ramda logo](https://ytcards.demolab.com/?id=jWuGn6VjgQA&title=Spinning+Ramda+logo&lang=en&timestamp=1703853248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Spinning Ramda logo")](https://www.youtube.com/watch?v=jWuGn6VjgQA)
+
 <!-- END YOUTUBE-CARDS -->
 
 [![Image.png](https://obscureimage.netlify.app/button/button_bilibili.png)](https://space.bilibili.com/523837807)

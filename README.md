@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://steamcommunity.com/id/obscurefreeman/">
-    <img src="https://obscurefreeman-steamprofiles.vercel.app/api?profileName=obscurefreeman" />
-  </a>
+    <a href="https://steamcommunity.com/id/obscurefreeman/">
+        <img width="400" height="140" src="https://card.yuy1n.io/card/76561199075381326/dark,badge,group">
+    </a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=b4e419&random=false&width=435&lines=这里是晦涩弗里曼！;看看我制作的项目吧！)](https://git.io/typing-svg)
